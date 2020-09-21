@@ -1,0 +1,6 @@
+2020-09-21T10:46:12.5953820+03:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5001"
+2020-09-21T10:46:12.9884534+03:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5000"
+2020-09-21T10:46:12.9916982+03:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2020-09-21T10:46:12.9931796+03:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2020-09-21T10:46:12.9949829+03:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\Users\karanja\AspRest.API"
+2020-09-21T10:49:47.1452186+03:00 [INF] (Microsoft.Hosting.Lifetime) Application is shutting down...
